@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "760144465122",
+    "firebase_url": "https://project-3a37d.firebaseio.com",
+    "project_id": "project-3a37d",
+    "storage_bucket": "project-3a37d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760144465122:android:cab8a57bf118ff4a",
+        "android_client_info": {
+          "package_name": "com.example.user.printersale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760144465122-rjskcr3mbndimkhkfutvi2me2lqflos9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGx-Z5YYKDtXw3ZsL9ZTFy6EaiydXe1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
